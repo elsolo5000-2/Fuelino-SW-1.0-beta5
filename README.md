@@ -9,7 +9,10 @@ It is also possible to expand the logging capabilities by adding an IMU (Inertia
 
 The software has been tested on Fuelino Proto3, on my motorcycle, a Honda CBR125R equipped with Athena 166cc bore up kit, Akrapovic racing exhaust, and conical air filter. The higher engine displacement, together with other modifications, required me to calibrate a fuel injection time increment of about 25%.
 
-For more details, please visit my website: www.monocilindro.com
+For more details:
+- please visit my website if available: www.monocilindro.com
+- a waybackmachine snapshot otherwise: https://web.archive.org/web/20241111162952/https://www.monocilindro.com/fuelino/
+- the doc folder
 
 Or contact me by e-mail at: dadez87-at-gmail.com
 
