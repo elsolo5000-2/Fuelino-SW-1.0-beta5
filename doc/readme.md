@@ -1,6 +1,7 @@
 # Fuelino
 
-This page summarizes the latest info, datasheets, presentations, and software available for **Fuelino Proto4**. For more information about **Fuelino project**, please visit [this page](https://web.archive.org/web/20241111162952/https://www.monocilindro.com/category/electronics/fuelino-project/).
+This page summarizes the latest info, datasheets, presentations, and software available for **Fuelino Proto4**. For more information about **Fuelino project**, please visit [this page from the waybackmachine](https://web.archive.org/web/20241111162952/https://www.monocilindro.com/category/electronics/fuelino-project/).
+if some links are missing, please check the content of this doc folder.
 
 ## Documentation and Resources
 
@@ -33,10 +34,10 @@ This page summarizes the latest info, datasheets, presentations, and software av
 ## Images
 
 ### Fuelino Proto 4 Front (without Arduino Nano)
-![Fuelino Proto 4 Front](https://web.archive.org/web/20241111162952im_/https://www.monocilindro.com/wp-content/uploads/2019/04/IMG_0903-1024x768.jpg)
+![Fuelino Proto 4 Front](Fuelino_Front_(without_Arduino_Nano).jpeg))
 
 ### Fuelino Proto 4 Back (without Arduino Nano)
-![Fuelino Proto 4 Back](https://web.archive.org/web/20241111162952im_/https://www.monocilindro.com/wp-content/uploads/2019/04/IMG_0905-1024x768.jpg)
+[FIXME] ![Fuelino Proto 4 Back](https://web.archive.org/web/20241111162952im_/https://www.monocilindro.com/wp-content/uploads/2019/04/IMG_0905-1024x768.jpg)
 
 ### Fuelino installed on Honda CBR125R
 ![Installed on motorcycle](https://web.archive.org/web/20241111162952im_/https://www.monocilindro.com/wp-content/uploads/2016/12/IMG_3160-1024x768.jpg)
